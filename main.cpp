@@ -14,6 +14,7 @@ int main() {
         // breakpoint for you, but you can always add more by pressing
         // <shortcut actionId="ToggleLineBreakpoint"/>.
         std::cout << "i = " << i << std::endl;
+        std::cout << i << std::endl;
     }
 
     return 0;
